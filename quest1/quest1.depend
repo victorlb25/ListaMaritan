@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1541387922 source:c:\users\marc\documents\quest1\main.cpp
+	<iostream>
+	"Medico.h"
+	"Oftalmologista.h"
+	"Cirurgiao.h"
+	"Otorrino.h"
+	"Ginecologista.h"
+
+1541386980 c:\users\marc\documents\quest1\include\medico.h
+	<iostream>
+
+1541387894 c:\users\marc\documents\quest1\include\oftalmologista.h
+	"Medico.h"
+	<iostream>
+
+1541387894 c:\users\marc\documents\quest1\include\cirurgiao.h
+	"Medico.h"
+	<iostream>
+
+1541387894 c:\users\marc\documents\quest1\include\otorrino.h
+	"Medico.h"
+	<iostream>
+
+1541387893 c:\users\marc\documents\quest1\include\ginecologista.h
+	"Medico.h"
+	<iostream>
+
+1541387803 source:c:\users\marc\documents\quest1\src\cirurgiao.cpp
+	"Cirurgiao.h"
+
+1541387803 source:c:\users\marc\documents\quest1\src\ginecologista.cpp
+	"Ginecologista.h"
+
+1541386646 source:c:\users\marc\documents\quest1\src\medico.cpp
+	"Medico.h"
+
+1541387803 source:c:\users\marc\documents\quest1\src\oftalmologista.cpp
+	"Oftalmologista.h"
+
+1541387803 source:c:\users\marc\documents\quest1\src\otorrino.cpp
+	"Otorrino.h"
+
